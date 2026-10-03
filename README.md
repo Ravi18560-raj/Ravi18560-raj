@@ -1,4 +1,4 @@
-# 💫 About Me:
+#  About Me:
 About Me:<br><br>Name: Ravi Raj<br>Education: B.Tech CSE (AI & ML), 2nd Year<br>Career Goal: Aspiring AI/ML Engineer<br>Skills: Python, C++, SQL, Machine Learning, Data Analysis, NLP, TensorFlow, Git & GitHub<br>Projects: AI/ML, Data Analysis, Prediction & Python-based projects<br>Strengths: Problem-Solving, Analytical Thinking, Teamwork, Communication<br>Goal: Seeking AI/ML internship opportunities to apply my skills and gain real-world experience.
 
 
